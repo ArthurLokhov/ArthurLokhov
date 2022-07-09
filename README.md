@@ -1,6 +1,6 @@
-<h2>(っ◔◡◔)っ</h2>
 <h1 align="center">Приветствую всех, с вами <a href="https://t.me/Arthur_Lokhov" target="_blank">『Артур』</a>
 <h3 align="center">Студент в IT, любитель Линукс и OpenSource из России 🇷🇺.</h3>
+<h2>(っ◔◡◔)っ</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurLokhov&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
