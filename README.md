@@ -1,12 +1,12 @@
-<h1 align="center">Приветствую всех, с вами <a href="https://t.me/Arthur_Lokhov" target="_blank">『Артур』</a>
-<h3 align="center">Студент в IT, любитель Линукс и OpenSource из России 🇷🇺.</h3>
+<h1 align="center">Greetings to all, <a href="https://t.me/Arthur_Lokhov" target="_blank">『Arthur』</a> is with you</h1>
+<h3 align="center">Student in IT, Linux and OpenSource lover from Russia 🇷🇺.</h3>
 <h2>(っ◔◡◔)っ</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurLokhov&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![codewars](https://www.codewars.com/users/Arthur_Lokhov/badges/large)](https://www.codewars.com/users/Arthur_Lokhov)
 
-<h3>Инструменты, которые я использую в своих проектах:</h3>
+<h3>Tools I use in my projects:</h3>
 
 <h4>DevOps:</h4>
 
@@ -26,7 +26,11 @@
 
 <h4>Programming Languages:</h4>
 
+<h5>Main:</h5>
+
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+<h5>Other:</h5>
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
