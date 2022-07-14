@@ -1,5 +1,5 @@
 <h1 align="center">Greetings to all, <a href="https://t.me/Arthur_Lokhov" target="_blank">『Arthur』</a> is with you</h1>
-<h3 align="center">Student in IT, Linux and OpenSource lover from Russia 🇷🇺.</h3>
+<h3 align="center">Student in IT, DevOps and OpenSource lover from Russia.</h3>
 <h2>(っ◔◡◔)っ</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurLokhov&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
